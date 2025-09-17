@@ -1,2 +1,18 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+# Ensure all text files use LF line endings in the repo
+* text=auto eol=lf
+
+# SQL files always use LF
+*.sql text eol=lf
+
+# CSV files always use LF
+*.csv text eol=lf
+
+# Code files (Python, R, etc.)
+*.py text eol=lf
+*.r text eol=lf
+
+# Markdown and docs
+*.md text eol=lf
+*.txt text eol=lf
