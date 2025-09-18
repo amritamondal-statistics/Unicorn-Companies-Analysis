@@ -119,7 +119,7 @@ Exit Count and Exit Type Distribution.
 Access the interactive dashboards here: https://public.tableau.com/app/profile/amrita.mondal/vizzes
 🌐 View Dashboards on Tableau Public
 
-🗂️ Project Structure  
+🗂️ Project Structure
 
 /Data                               # Processed datasets
 /SQL Coding                         # SQL scripts for data transformation
@@ -136,19 +136,18 @@ Access the interactive dashboards here: https://public.tableau.com/app/profile/a
 /LICENSE
 
 🖼️ Dashboard Previews
-
 Dashboard	                                                       Preview
-🌍 Geographic Insights	                ![Geographic Insights](Tableau Dashboards Preview/Geographic Insights.png)
+🌍 Geographic Insights	                https://github.com/amritamondal-statistics/Unicorn-Companies-Analysis/blob/main/Tableau%20Dashboards%20Preview/Geographic%20Insights.png
 
-💼 Investor Insights	                ![Investor Insights](Tableau Dashboards Preview/Investor Landscape.png)
+💼 Investor Insights	                https://github.com/amritamondal-statistics/Unicorn-Companies-Analysis/blob/main/Tableau%20Dashboards%20Preview/Investors%20Landscape.png
 
-🏭 Industry Insights	                ![Industry Insights](Tableau Dashboards Preview/Industry-specific & Portfolio Performance.png)
+🏭 Industry Insights	                https://github.com/amritamondal-statistics/Unicorn-Companies-Analysis/blob/main/Tableau%20Dashboards%20Preview/Industry-specific%20%26%20Portfolio%20Performance.png
 
-📈 Growth & Funding	                    ![Growth & Funding](Tableau Dashboards Preview/Growth over Time.png)
+📈 Growth & Funding	                    https://github.com/amritamondal-statistics/Unicorn-Companies-Analysis/blob/main/Tableau%20Dashboards%20Preview/Growth%20over%20Time.png
 
-🏁 Financial Performance	            ![Financial Performance](Tableau Dashboards Preview/Finanacial Stages.png)
+🏁 Financial Performance	            https://github.com/amritamondal-statistics/Unicorn-Companies-Analysis/blob/main/Tableau%20Dashboards%20Preview/Finanacial%20Stages.png
 
-💰 Valuation & Efficiency	            ![Valuation & Efficiency](Tableau Dashboards Preview/Valuation & Funding Efficiency.png)
+💰 Valuation & Efficiency	            https://github.com/amritamondal-statistics/Unicorn-Companies-Analysis/blob/main/Tableau%20Dashboards%20Preview/Valuation%20%26%20Funding%20Efficiency.png
 
 
 📝 Conclusion
