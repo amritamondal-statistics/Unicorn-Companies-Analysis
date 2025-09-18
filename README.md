@@ -120,17 +120,16 @@ Access the interactive dashboards here: https://public.tableau.com/app/profile/a
 🌐 View Dashboards on Tableau Public
 
 🗂️ Project Structure
-
 /Data                               # Processed datasets
 /SQL Coding                         # SQL scripts for data transformation
 /Tableau Dashboards Preview         # PNG/JPG screenshots of dashboards
 /Tableau Dashboards Preview
-   ├─ Geographic Insights.png
-   ├─ Investor Landscape.png
-   ├─ Industry-specific & Portfolio Performance.png
-   ├─ Growth over Time.png
-   ├─ Finanacial Stages.png
-   └─ Valuation & Funding Efficiency.png      
+ ├─ Geographic Insights.png
+ ├─ Investor Landscape.png
+ ├─ Industry-specific & Portfolio Performance.png
+ ├─ Growth over Time.png
+ ├─ Finanacial Stages.png
+ └─ Valuation & Funding Efficiency.png      
 /Report                             # pdf of Analysis & Findings
 /README.md                          # Project overview, insights, KPIs, recommendations
 /LICENSE
