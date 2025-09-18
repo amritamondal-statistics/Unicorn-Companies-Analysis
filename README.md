@@ -49,6 +49,7 @@ GROUP BY country
 ORDER BY unicorn_count DESC;
 
 📊 Dashboards Overview & Insights
+
 🌍 1️⃣ Geographic Insights
 
 Unicorns concentrate in US, China, India, with San Francisco as the top city.
@@ -119,26 +120,35 @@ Access the interactive dashboards here: https://public.tableau.com/app/profile/a
 🌐 View Dashboards on Tableau Public
 
 🗂️ Project Structure
+
 /Data                               # Processed datasets
 /SQL Coding                         # SQL scripts for data transformation
 /Tableau Dashboards Preview         # PNG/JPG screenshots of dashboards
+│-- Tableau Dashboards Preview/
+│   ├─ Geographic Insights.png
+│   ├─ Investor Landscape.png
+│   ├─ Industry-specific & Portfolio Performance.png
+│   ├─ Growth over Time.png
+│   ├─ Finanacial Stages.png
+│   └─ Valuation & Funding Efficiency.png      
 /Report                             # pdf of Analysis & Findings
 /README.md                          # Project overview, insights, KPIs, recommendations
 /LICENSE
 
 🖼️ Dashboard Previews
+
 Dashboard	                                                       Preview
-🌍 Geographic Insights	                (Tableau Dashboards Preview/Geographic Insights.png)
+🌍 Geographic Insights	                ![Geographic Insights](Tableau Dashboards Preview/Geographic Insights.png)
 
-💼 Investor Insights	                (Tableau Dashboards Preview/Investor Landscape.png)
+💼 Investor Insights	                ![Investor Insights](Tableau Dashboards Preview/Investor Landscape.png)
 
-🏭 Industry Insights	                (Tableau Dashboards Preview/Industry-specific & Portfolio Performance.png)
+🏭 Industry Insights	                ![Industry Insights](Tableau Dashboards Preview/Industry-specific & Portfolio Performance.png)
 
-📈 Growth & Funding	                    (Tableau Dashboards Preview/Growth over Time.png)
+📈 Growth & Funding	                    ![Growth & Funding](Tableau Dashboards Preview/Growth over Time.png)
 
-🏁 Financial Performance	            (Tableau Dashboards Preview/Finanacial Stages.png)
+🏁 Financial Performance	            ![Financial Performance](Tableau Dashboards Preview/Finanacial Stages.png)
 
-💰 Valuation & Efficiency	             (Tableau Dashboards Preview/Valuation & Funding Efficiency.png)
+💰 Valuation & Efficiency	            ![Valuation & Efficiency](Tableau Dashboards Preview/Valuation & Funding Efficiency.png)
 
 
 📝 Conclusion
