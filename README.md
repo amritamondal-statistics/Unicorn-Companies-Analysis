@@ -120,7 +120,7 @@ Access the interactive dashboards here: https://public.tableau.com/app/profile/a
 
 🗂️ Project Structure
 /Data                               # Processed datasets
-/SQL Codin                          # SQL scripts for data transformation
+/SQL Coding                         # SQL scripts for data transformation
 /Tableau Dashboards Preview         # PNG/JPG screenshots of dashboards
 /Report                             # pdf of Analysis & Findings
 /README.md                          # Project overview, insights, KPIs, recommendations
